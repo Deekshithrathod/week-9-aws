@@ -1,0 +1,5 @@
+*.sh
+*.pem
+*.key
+*.log
+node_modules
